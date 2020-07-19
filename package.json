@@ -10,7 +10,7 @@
   "license": "ISC",
   "engineStrict": true,
   "engines": {
-    "node": "^12",
+    "node": "^13",
     "yarn": "^1"
   },
   "repository": {
